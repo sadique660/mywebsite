@@ -2,7 +2,7 @@ version: 0.2
 phases:
   build:
     commands:
-      - echo "This is build phase...zipping my webpage"
+      - echo "This is build phase...zipping my webpage ..hahaha"
       
     post_build:
       commands:
